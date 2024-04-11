@@ -12,7 +12,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Quarry Health", "VisEntities", "2.0.0")]
-    [Description("Changes the health of quarries and pump jacks.")]
+    [Description("Alters the health of quarries and pump jacks.")]
     public class QuarryHealth : RustPlugin
     {
         #region Fields
